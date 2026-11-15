@@ -7,7 +7,9 @@
 - 🛡️ **高鲁棒性**：支持自定义引擎路径、多模型配置隔离、参数转义防注入。
 
 <!-- 强烈建议在这里放 1-2 张软件截图，这比一万字都有用 -->
-![控制台主界面]<img width="762" height="912" alt="QQ_1794734263263" src="https://github.com/user-attachments/assets/9c7ca9cc-f3f9-4ecb-bbb2-ab54995bce16" />
+![控制台主界面]
+
+<img width="762" height="912" alt="QQ_1794734263263" src="https://github.com/user-attachments/assets/9c7ca9cc-f3f9-4ecb-bbb2-ab54995bce16" />
 <img width="762" height="912" alt="QQ_1794734271765" src="https://github.com/user-attachments/assets/9f426724-6cf9-4504-bd95-34dd21457435" />
 
 
